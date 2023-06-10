@@ -31,6 +31,7 @@ Asegúrate de tener instalados los siguientes paquetes de Python:
 - pandas
 - matplotlib
 - seaborn
+
 Puedes instalarlos usando pip con el siguiente comando:
 ~~~
 pip install pandas matplotlib seaborn
